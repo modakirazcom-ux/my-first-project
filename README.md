@@ -1,2 +1,2 @@
-# my-first-project
-Learning GitHub step by step
+This is my first GitHub project.
+I am learning step by step.
